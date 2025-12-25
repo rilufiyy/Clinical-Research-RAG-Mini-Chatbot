@@ -1,4 +1,4 @@
-# 🧠 Clinical Research RAG Chatbot
+# 🧠 Clinical Research RAG Mini Chatbot
 
 A mini Retrieval-Augmented Generation (RAG) chatbot designed to answer clinical psychology questions based on curated research articles, particularly focusing on **Nightmare Disorder**, **Imagery Rehearsal Therapy (IRT)**, and **Major Depressive Episode**.
 
